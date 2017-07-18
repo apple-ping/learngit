@@ -3,3 +3,4 @@ First use Git
 modify in dec branch
 Creating a new branch is quick AND simple
 modify in dev branch
+test git stash
